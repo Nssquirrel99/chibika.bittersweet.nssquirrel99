@@ -1,0 +1,51 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.chibis.chibika",
+    "packId": "chibika.bittersweet.nssquirrel99",
+    "packCredits": "Base No Outline Chibi created by Bittersweet, Expressions and Pack created by Nssquirrel99",
+    "packName": "Chibika (Nssquirrel99)",
+    "source": "",
+    "authors": [
+        "OwO what's this? [Bittersweet]",
+        "Nssquirrel99"
+    ],
+    "name": "Chibika",
+    "internalId": "Chibika",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "default",
+            "label": "Default"
+        }
+    ],
+    "heads": {
+        "default": [
+            "./h1.png",
+            "./h2.png",
+            "./h3.png",
+            "./h4.png",
+            "./h5.png",
+            "./h6.png",
+            "./h7.png",
+            "./h8.png",
+            "./h9.png",
+            "./h10.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "normal",
+            "style": "default",
+            "compatibleHeads": [
+                "default"
+            ],
+	    "left": [
+		"./l1.png"
+	    ],
+	    "right": [
+		"./r1.png",
+		"./r2.png"
+	    ]
+        }
+    ]
+}

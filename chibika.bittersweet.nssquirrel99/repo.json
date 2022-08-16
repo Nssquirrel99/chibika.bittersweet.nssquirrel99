@@ -1,0 +1,30 @@
+{
+    "pack": {
+        "id": "chibika.bittersweet.nssquirrel99",
+        "name": "Chibika",
+        "characters": [
+            "Chibika"
+        ],
+        "authors": [
+            "OwO what's this? [Bittersweet]",
+            "Nssquirrel99"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "source": "https://www.reddit.com/8ym847/",
+        "dddg2Path": "http://localhost:4716/repo/chibika.bittersweet.nssquirrel99/index.json",
+        "description": "Base No Outline Chibi created by Bittersweet, Expressions and Pack created by Nssquirrel99",
+        "preview": [
+            "http://localhost:4716/repo/chibika.bittersweet.nssquirrel99/ad.png",
+            "http://localhost:4716/repo/chibika.bittersweet.nssquirrel99/d.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "Nssquirrel99": {
+        },
+        "OwO what's this? [Bittersweet]": {
+        }
+    }
+}
