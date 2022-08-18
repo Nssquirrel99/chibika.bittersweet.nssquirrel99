@@ -29,7 +29,14 @@
             "./h7.png",
             "./h8.png",
             "./h9.png",
-            "./h10.png"
+            "./h10.png",
+            "./h11.png",
+            "./h12.png",
+            "./h13.png",
+            "./h14.png",
+            "./h15.png",
+            "./h16.png",
+            "./h17.png"
         ]
     },
     "poses": [
@@ -40,7 +47,8 @@
                 "default"
             ],
 	    "left": [
-		"./l1.png"
+		"./l1.png",
+		"./l2.png"
 	    ],
 	    "right": [
 		"./r1.png",
